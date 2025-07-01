@@ -14,10 +14,10 @@
 ### ⚡ Skills:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)  ![Langchain](https://img.shields.io/badge/-Langchain-1C3C3C?&logo=Langchain&logoColor=FFFFFF)  ![Django](https://img.shields.io/badge/-Django-092e20?&logo=Django&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/badge/-CSS-1040FF?&logo=CSS&logoColor=FFFFFF)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=FFFFFF) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?&logo=Streamlit&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)  
 
-### 📦 Databases:
+### 📦 Banco de Dados:
 - ![PostegreSQL](https://img.shields.io/badge/-PostegreSQL-0A9EDC?&logo=PostgreSQL&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
 
-### ☁️ Cloud & DevOps
+### ☁️ Nuvem
 - ![AmazonWebService](https://img.shields.io/badge/-AWS-FCA121?&logo=Amazon%20Web%20Service&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?&logo=GitHub%20Actions&logoColor=FFFFFF) 
 
 ### 🛠️ Ferramentas & IDEs:
