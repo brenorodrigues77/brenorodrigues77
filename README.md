@@ -6,7 +6,7 @@
 
 > - Olá! Me chamo Breno rodrigues e sou entusiasta por tecnologia, dados e resolver problemas com código.
 > - 🎓 Formando em Análise e Desenvolvimento de Sistemas, sempre em constante atualização com cursos, treinamentos e projetos publicados ao decorrer da minha carreira.
-> - 💻 Atuo como Desenvolvedor Python e compartilho conhecimento com a comunidade de desenvolvedores afim de agrega valor a todos no mundo da tecnologia.
+> - 💻 Atuo como analista de dados e compartilho conhecimento com a comunidade de desenvolvedores afim de agrega valor a todos no mundo da tecnologia.
 > - 🛠️ Tenho experiência em Python, Django, Streamlit, Pandas, Matplotlib, Plotly, APIs REST e aplicações com Inteligência Artificial Generativa.
 
 <hr>
